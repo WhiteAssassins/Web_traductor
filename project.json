@@ -1,0 +1,14 @@
+{
+    "nombre": "Traductor de Texto",
+    "descripcion": "Una aplicación que permite a los usuarios traducir texto de un idioma a otro utilizando la API de Google Translate.",
+    "fecha_creacion": "2023-09-10",
+    "version": "1.0",
+    "fecha_ultima_actualizacion": "2023-09-10",
+    "herramientas_utilizadas": ["HTML", "CSS", "JavaScript", "jQuery", "Google Translate API"],
+    "creador": "WhiteAssassins",
+    "lenguaje": "JavaScript",
+    "categorias": ["Herramientas", "Traducción"],
+    "etiquetas": ["Web", "Traducción", "Google Translate", "HTML5", "CSS3", "JavaScript", "API"],
+    "licencia": "Licencia MIT",
+    "estado": "Completado"
+}

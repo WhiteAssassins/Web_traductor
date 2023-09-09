@@ -1,0 +1,45 @@
+.translator-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(5px);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-image: url('tu_imagen_de_fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.listen-icon {
+    color: #3498db;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.listen-icon:hover {
+    color: #2980b9;
+}
+
+#output-text {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+#output-text .listen-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+}
